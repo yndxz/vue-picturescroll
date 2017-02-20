@@ -1,0 +1,21 @@
+
+.slide[data-v-040b5ed5]{
+	width: 615px;
+	height: 200px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.list[data-v-040b5ed5]{
+	width: auto;
+}
+.item[data-v-040b5ed5]{
+	font-size: 0;
+	float: left;
+}
+.clearfix[data-v-040b5ed5]:after{
+	display: block;
+	content: '';
+	height: 0;
+	visibility: hidden;
+	clear: both;
+}
