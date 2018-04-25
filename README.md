@@ -1,8 +1,8 @@
-# vue-mp3Mplayer
+# vue-picturescroll
 
 > A Vue.js project
 
-## vue-mp3Mplayer
+## vue-picturescroll
 
 ``` bash
 # install dependencies
